@@ -2,7 +2,14 @@
   "name": "font-awesome",
   "description": "The iconic font designed for Bootstrap",
   "version": "4.0.3",
-  "keywords": ["font", "awesome", "fontawesome", "icon", "font", "bootstrap"],
+  "keywords": [
+    "font",
+    "awesome",
+    "fontawesome",
+    "icon",
+    "font",
+    "bootstrap"
+  ],
   "homepage": "http://fontawesome.io/",
   "author": {
     "name": "Dave Gandy",
@@ -38,6 +45,6 @@
     }
   ],
   "dependencies": {
-    "less": "1.4.2"
+    "less": "2.1.0"
   }
 }
